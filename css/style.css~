@@ -1,0 +1,81 @@
+#div1 {
+	width:175px;
+	height:175px;
+	background-image: url(img/pozo.gif);
+	background-size: cover;
+	margin-left: auto;
+	margin-right: auto;
+	cursor: crosshair;
+}
+#racha{
+    width: 15px;
+    height: 15px;
+    background-color: #3ADF00;
+    border-color: gray;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 20px;
+}
+#rachaN{
+    width: 15px;
+    height: 15px;
+    background-color: red;
+    border-color: gray;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 20px;
+}
+
+#faltante{
+
+    width: 15px;
+    height: 15px;
+    background-color: white;
+    border-color: gray;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 20px;   
+}
+
+.floating,.pulse{
+    
+    cursor: url(img/hand.cur),move;    
+    width: 75px;
+    height: 75px;
+    background-image: url(img/coin.png);
+    background-size: cover;
+    font-size: 18px;
+
+}
+
+p{
+    text-align: center;
+    line-height: 75px;
+}
+
+body{
+    text-align: center;
+
+    
+}
+h1,h3{
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+    color: #0A2229;
+}
+#datos{
+
+    text-align: left;
+}
+footer{
+
+    text-align: left;
+}
+#counter{
+
+    font-size: 50px;
+    text-align: center;
+    font-weight: bold;
+    color: #FACC2E;
+   
+}
